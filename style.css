@@ -1,0 +1,10 @@
+body{
+    background-image: url("lola.jpg");
+    background-size: 100%;
+    background-position: fixed;
+}
+h1{
+    color:red;
+    text-align: center;
+    align-self: center;
+}
